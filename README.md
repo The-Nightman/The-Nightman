@@ -95,7 +95,9 @@ Checkout my Portfolio site linked below!
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/The-Nightman/The-Nightman/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/The-Nightman/The-Nightman/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
