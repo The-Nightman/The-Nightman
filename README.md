@@ -1,6 +1,6 @@
 ### <h1 align="left">Hi! My name is Keenan and I'm a Junior Fullstack Developer from the UK</h1>
 - 🔭 I’m currently working on: A medical contact platform webapp for IBD patients and their respective consultants and nurses bridging the gap of current IBD line contact protocols as a personal project
-- 🌱 I’m currently learning: C#/ASP.NET and VUE.js with TypeScript
+- 🌱 I’m currently learning: C#/ASP.NET and TypeScript
 - 😄 Pronouns: He/Him
 - 🟥🟪🟦-visibility
 - ⚡ Fun fact: DB Cooper is believed to have had previous military or government experience due to his familiarity with an old surplus issue parachute and despite some of the stolen money being found burried under sandbanks years after the incident government agencies have still been unable to move forward with the investigation of one of the most infamous unsolved cases in history.
@@ -53,8 +53,6 @@ Checkout my Portfolio site linked below!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
