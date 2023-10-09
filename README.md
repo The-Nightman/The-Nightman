@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on: A medical contact platform webapp for IBD patients and their respective consultants and nurses bridging the gap of current IBD line contact protocols as a personal project
 - 🌱 I’m currently learning: C#/ASP.NET and TypeScript
 - 😄 Pronouns: He/Him
-- 🟥🟪🟦-visibility
+- 🟥🟪🟦 - Bi+ visibility
 - ⚡ Fun fact: DB Cooper is believed to have had previous military or government experience due to his familiarity with an old surplus issue parachute and despite some of the stolen money being found burried under sandbanks years after the incident government agencies have still been unable to move forward with the investigation of one of the most infamous unsolved cases in history.
 ###
 Checkout my Portfolio site linked below!
