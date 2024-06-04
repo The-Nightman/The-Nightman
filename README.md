@@ -1,5 +1,5 @@
 ### <h1 align="left">Hi! My name is Keenan and I'm a Junior Fullstack Developer from the UK</h1>
-- 🔭 I’m currently working on: A medical contact platform webapp for IBD patients and their respective consultants and nurses bridging the gap of current IBD line contact protocols as a personal project
+- 🔭 I’m currently working on: A free Cross-Platform fitness tracker in react native
 - 🌱 I’m currently learning: C#/ASP.NET and TypeScript
 - 😄 Pronouns: He/Him
 - 🟥🟪🟦 - Bi+ visibility
