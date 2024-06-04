@@ -5,7 +5,6 @@
 - 🟥🟪🟦 - Bi+ visibility
 - ⚡ Fun fact: DB Cooper is believed to have had previous military or government experience due to his familiarity with an old surplus issue parachute and despite some of the stolen money being found burried under sandbanks years after the incident government agencies have still been unable to move forward with the investigation of one of the most infamous unsolved cases in history.
 ###
-Checkout my Portfolio site linked below!
 
 <h3 align="center">Statistics</h3>
 <div align="center">
@@ -79,19 +78,6 @@ Checkout my Portfolio site linked below!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-</div>
-
-###
-
-<h4 align="left">Connect with me at my:</h4>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/keenan-brant/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-   	<a href="https://www.kbrant.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="35" alt="Personal Portfolio Page"  />
-  </a>
 </div>
 
 ###
